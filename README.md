@@ -1,4 +1,4 @@
-# Desafio tags HTML
+# Desafio TAGs HTML
 Desafio HTML da DIO.me
 
 A ideia foi criar um website em HTML puro utilizando algumas destas TAGs:<br>
