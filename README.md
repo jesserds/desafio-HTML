@@ -10,3 +10,5 @@ Como grande fã de Rock Britânico, aproveitei para abordar algumas das minhas b
 - The Beatles
 - The Who
 - The Rolling Stones
+
+<a href="" target="_blank"><img src="the-who.gif" alt="rock" height=350 class="center"/></a>
